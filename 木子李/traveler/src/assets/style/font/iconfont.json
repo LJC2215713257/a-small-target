@@ -1,0 +1,240 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15362186",
+      "name": "avatar07",
+      "font_class": "07",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "15362375",
+      "name": "avatar06",
+      "font_class": "06",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "15369863",
+      "name": "avatar04",
+      "font_class": "04",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "15370531",
+      "name": "avatar02",
+      "font_class": "02",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "15371551",
+      "name": "avatar01",
+      "font_class": "01",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "15392879",
+      "name": "avatar11",
+      "font_class": "11",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "15394518",
+      "name": "avatar14",
+      "font_class": "14",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "15395492",
+      "name": "avatar16",
+      "font_class": "16",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "15398218",
+      "name": "avatar18",
+      "font_class": "18",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "15398721",
+      "name": "avatar19",
+      "font_class": "19",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "15399113",
+      "name": "avatar20",
+      "font_class": "20",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "15601423",
+      "name": "灯泡",
+      "font_class": "dengpao",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "15601917",
+      "name": "计算符号",
+      "font_class": "jisuanfuhao",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "15601918",
+      "name": "编码",
+      "font_class": "bianma",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "15602564",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "15602565",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "15602566",
+      "name": "闹钟",
+      "font_class": "naozhong",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "15602567",
+      "name": "发送文件",
+      "font_class": "fasongwenjian",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "15602568",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "15602569",
+      "name": "信封",
+      "font_class": "xinfeng",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "15602570",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "15602576",
+      "name": "祈福牌",
+      "font_class": "qifupai",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "15602577",
+      "name": "女士",
+      "font_class": "nvshi",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "15602579",
+      "name": "砖石",
+      "font_class": "zhuanshi",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "15602580",
+      "name": "日期",
+      "font_class": "riqi",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "15602581",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "15602582",
+      "name": "表格",
+      "font_class": "biaoge",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "15602584",
+      "name": "商店",
+      "font_class": "shangdian",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "15602585",
+      "name": "礼盒",
+      "font_class": "lihe",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "15602587",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "15602588",
+      "name": "箱子",
+      "font_class": "xiangzi",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "15602590",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "15602592",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    }
+  ]
+}

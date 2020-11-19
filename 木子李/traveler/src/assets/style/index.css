@@ -1,0 +1,165 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    border: none;
+}
+
+.page{
+    box-sizing: border-box;
+    border: 1px dashed rgb(157, 192, 160);
+}
+
+.flex-page{
+    display: block;
+    margin: 0px auto;
+    margin-top: 100px;
+    height: 500px;
+    width: 1200px;
+}
+
+.flex-page>div{
+    box-sizing: border-box;
+    float: left;
+}
+
+.flex-left{
+    height: 100%;
+    width: 50%;
+}
+
+.flex-right{
+    height: 100%;
+    width: 50%;
+}
+
+.flex-page::before{
+    content: '';
+    display: block;
+    clear: all;
+}
+
+.flex-page::after{
+    content: '';
+    display: block;
+    clear: all;
+}
+.main-page{
+    width: 100%;
+}
+.def-sty{
+    margin:0px auto;
+    width: 1100px;
+}
+.page-head{
+    width: 100%;
+    min-width: 1200px;
+    height: 40px;
+    background-color: #04b1cc;
+    top:0px;
+    left: 0px;
+    position: fixed;
+    box-shadow: 0 0 3px #999;
+}
+.page-head-grad{
+    position: absolute;
+    display: block;
+    top:0px;
+    left: -200px;
+    width: 400px;
+    height: 40px;
+    border-radius: 50px;
+    background-image: linear-gradient(90deg,#04b1cc 0%,#88e2f0 50%,#04b1cc 100%);
+    z-index: -100;
+    /* transition: background 0.5s; */
+}
+
+.head-nav{
+    height: 40px;
+}
+.head-nav>*{
+    float: left;
+    height: 40px;
+}
+
+.head-nav>h1.tra-logo{
+    font-size: 1.2em;
+    position: relative;
+    color:#fff;
+    width: 160px;
+}
+.head-nav>h1.tra-logo>*{
+    float: left;
+}
+.head-nav>h1.tra-logo>i{
+    background-image: url('~@/assets/img/logo.png');
+    background-repeat: no-repeat;
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+}
+.head-nav>h1.tra-logo>span{
+    margin-left: 10px;
+    width: 110px;
+    line-height: 40px;
+    text-align-last: justify; 
+    cursor: pointer;
+}
+.head-nav>ul.opt-nav{
+    margin-left: 20px;
+}
+.head-nav>ul.opt-nav li{
+    position: relative;
+    float: left;
+    height: 100%;
+    margin-left: 10px;
+    list-style: none;
+}
+
+.head-nav>ul.opt-nav li>div{
+    top: 50px;
+    left: 0px;
+    height: 0px;
+}
+
+.head-nav>ul.opt-nav li>h2{
+    width: 100%;
+    padding: 0px 30px;
+    height: 40px;
+    font-size: 0.9em;
+    font-weight: normal;
+    color:#fff;
+    line-height: 40px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.head-nav>ul.opt-nav li:hover{
+    background-color: #fff;
+}
+.head-nav>ul.opt-nav li:hover div{
+    display: block !important;
+    position: absolute;
+    top: 39px;
+    left: 0px;
+    min-width: 400px;
+    min-height: 40px;
+    box-shadow: 0 0 5px #aaa;
+    background-color: #fff;
+    border:1px solid rgb(72, 100, 126);
+    z-index: -1;
+}
+.head-nav>ul.opt-nav li:hover h2{
+    color:#000;
+    z-index: 100;
+    cursor: pointer;
+    border:1px solid rgb(72, 100, 126);
+    border-top:none;
+    border-bottom: none;
+}
+
+.head-nav>div.opt-config{
+    display: block;
+    float: right;
+    height: 40px;
+    padding-left: 20px;
+}
